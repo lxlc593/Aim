@@ -2,15 +2,15 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/VanThanhIOS/OniiChan
 
        local Window = MakeWindow({
          Hub = {
-         Title = "Văn Thành IOS",
-         Animation = "Script Săn Bounty"
+         Title = "lxlc",
+         Animation = "Script Bounty"
          },
         Key = {
         KeySystem = true,
-        Title = "Văn Thành IOS / Script Săn Bounty",
+        Title = "lxlc / Script Bounty",
         Description = "",
         KeyLink = "",
-        Keys = {"VanThanhIOS2025"},
+        Keys = {"lxlc2025"},
         Notifi = {
         Notifications = true,
         CorrectKey = "Đang Chạy Kịch Bản",
@@ -21,7 +21,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/VanThanhIOS/OniiChan
   })
 
        MinimizeButton({
-       Image = "http://www.roblox.com/asset/?id=89284864928775",
+       Image = "http://www.roblox.com/asset/?id=113316448532747",
        Size = {40, 40},
        Color = Color3.fromRGB(10, 10, 10),
        Corner = true,
@@ -30,7 +30,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/VanThanhIOS/OniiChan
       })
       
 ------ Tab
-     local Tab1o = MakeTab({Name = "Chức Năng"})
+     local Tab1o = MakeTab({Name = "aimbot"})
     AddButton(Tab1o, {
      Name = "AimBot 100%",
     Callback = function()
