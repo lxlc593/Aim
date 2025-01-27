@@ -2,7 +2,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/VanThanhIOS/OniiChan
 
        local Window = MakeWindow({
          Hub = {
-         Title = "lxlc",
+         Title = "MPRESENTS HUB vietnam",
          Animation = "Script Bounty"
          },
         Key = {
@@ -10,12 +10,12 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/VanThanhIOS/OniiChan
         Title = "lxlc / Script Bounty",
         Description = "",
         KeyLink = "",
-        Keys = {"lxlc2025"},
+        Keys = {"MPRESENTS HUB 2025"},
         Notifi = {
         Notifications = true,
-        CorrectKey = "Đang Chạy Kịch Bản",
-       Incorrectkey = "Mật Khẩu Không Đúng",
-       CopyKeyLink = "Đã Sao Chép"
+        CorrectKey = "yes sirrr🤑",
+       Incorrectkey = "key đeo đúng haha ",
+       CopyKeyLink = "https://discord.gg/tUM69ecz"
       }
     }
   })
